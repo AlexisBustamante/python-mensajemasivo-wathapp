@@ -63,8 +63,8 @@ for i in range(len(data)):
     ¡Gracias por su tiempo y confianza! 🙏
 
     Saludos cordiales,
-    Isidora Covarrubias
-    Xinermed
+   
+    
     [Tu número de teléfono]
     """
 
